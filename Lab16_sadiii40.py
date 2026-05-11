@@ -46,3 +46,5 @@ plt.savefig("ohio_employment.png")
 plt.show()
 
 print("Plot saved to ohio_unemployment.png")
+
+#Ai disclosure: Used Claude to review and polish code structure.
